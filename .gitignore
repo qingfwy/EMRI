@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# added by myself
+x64-Debug/*
+x64-Debug-int/*
