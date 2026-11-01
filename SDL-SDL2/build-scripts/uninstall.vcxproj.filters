@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\work\Cpp\EMRI\SDL-SDL2\build-scripts\CMakeFiles\dd9d76d301a84639dfab5de9a9f719b5\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\work\Cpp\EMRI\SDL-SDL2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\work\Cpp\EMRI\SDL-SDL2\build-scripts\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E47DC4BE-BDB2-3DD1-AC6B-DAE6A8CBAF6C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

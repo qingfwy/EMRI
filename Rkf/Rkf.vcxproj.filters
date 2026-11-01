@@ -15,13 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\rkf.h">
+    <ClInclude Include="src\rkf.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="src\rkf.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+    <ClInclude Include="src\mtx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
